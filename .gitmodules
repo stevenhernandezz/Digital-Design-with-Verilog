@@ -16,3 +16,6 @@
 [submodule "Scalable-Multiplexer"]
 	path = Scalable-Multiplexer
 	url = https://github.com/stevenhernandezz/Scalable-Multiplexer
+[submodule "Register-File-Models"]
+	path = Register-File-Models
+	url = https://github.com/stevenhernandezz/Register-File-Models
