@@ -7,3 +7,6 @@
 [submodule "Delays-for-Primitives"]
 	path = Delays-for-Primitives
 	url = https://github.com/stevenhernandezz/Delays-for-Primitives
+[submodule "Edge-Triggered-Flip-Flop"]
+	path = Edge-Triggered-Flip-Flop
+	url = https://github.com/stevenhernandezz/Edge-Triggered-Flip-Flop
