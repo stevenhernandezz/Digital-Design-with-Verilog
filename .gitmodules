@@ -22,3 +22,6 @@
 [submodule "Sum-of-Products-"]
 	path = Sum-of-Products-
 	url = https://github.com/stevenhernandezz/Sum-of-Products-
+[submodule "Arithmetic-Logic-Unit-Modeling"]
+	path = Arithmetic-Logic-Unit-Modeling
+	url = https://github.com/stevenhernandezz/Arithmetic-Logic-Unit-Modeling
