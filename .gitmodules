@@ -13,3 +13,6 @@
 [submodule "8-Bit-Up-Counter-"]
 	path = 8-Bit-Up-Counter-
 	url = https://github.com/stevenhernandezz/8-Bit-Up-Counter-
+[submodule "Scalable-Multiplexer"]
+	path = Scalable-Multiplexer
+	url = https://github.com/stevenhernandezz/Scalable-Multiplexer
