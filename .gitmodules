@@ -25,3 +25,6 @@
 [submodule "Arithmetic-Logic-Unit-Modeling"]
 	path = Arithmetic-Logic-Unit-Modeling
 	url = https://github.com/stevenhernandezz/Arithmetic-Logic-Unit-Modeling
+[submodule "Parameterized-Synchronous-FIFO"]
+	path = Parameterized-Synchronous-FIFO
+	url = https://github.com/stevenhernandezz/Parameterized-Synchronous-FIFO
