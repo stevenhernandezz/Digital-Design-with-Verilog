@@ -19,3 +19,6 @@
 [submodule "Register-File-Models"]
 	path = Register-File-Models
 	url = https://github.com/stevenhernandezz/Register-File-Models
+[submodule "Sum-of-Products-"]
+	path = Sum-of-Products-
+	url = https://github.com/stevenhernandezz/Sum-of-Products-
