@@ -4,3 +4,6 @@
 [submodule "Half-Adder-Full-Adder"]
 	path = Half-Adder-Full-Adder
 	url = https://github.com/stevenhernandezz/Half-Adder-Full-Adder
+[submodule "Delays-for-Primitives"]
+	path = Delays-for-Primitives
+	url = https://github.com/stevenhernandezz/Delays-for-Primitives
