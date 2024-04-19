@@ -28,3 +28,6 @@
 [submodule "Parameterized-Synchronous-FIFO"]
 	path = Parameterized-Synchronous-FIFO
 	url = https://github.com/stevenhernandezz/Parameterized-Synchronous-FIFO
+[submodule "System-Verilog-Verification"]
+	path = System-Verilog-Verification
+	url = https://github.com/stevenhernandezz/System-Verilog-Verification
