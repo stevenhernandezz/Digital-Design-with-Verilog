@@ -31,3 +31,6 @@
 [submodule "System-Verilog-Verification"]
 	path = System-Verilog-Verification
 	url = https://github.com/stevenhernandezz/System-Verilog-Verification
+[submodule "System-Verilog-OOP"]
+	path = System-Verilog-OOP
+	url = https://github.com/stevenhernandezz/System-Verilog-OOP
