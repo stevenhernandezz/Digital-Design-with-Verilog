@@ -1,7 +1,7 @@
 # Digital-Design-with-Verilog
 A collection of Verilog projects designed to explore and demonstrate the capabilities of System Verilog and Verilog in digital circuit design. 
 
-# Projects 
+## Projects 
 * https://github.com/stevenhernandezz/4-to-1-Multiplexer
 * https://github.com/stevenhernandezz/Half-Adder-Full-Adder
 * https://github.com/stevenhernandezz/Delays-for-Primitives
