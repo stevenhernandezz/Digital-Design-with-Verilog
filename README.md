@@ -1,5 +1,5 @@
 # Digital-Design-with-Verilog
-A collection of Verilog projects designed to explore and demonstrate the capabilities of Verilog in digital circuit design. 
+A collection of Verilog projects designed to explore and demonstrate the capabilities of System Verilog and Verilog in digital circuit design. 
 
 # Projects 
 * https://github.com/stevenhernandezz/4-to-1-Multiplexer
